@@ -40,6 +40,7 @@ baseurl: "/data-blog" # the subpath of your site, e.g. "/blog".
 minima:
   social_links:
     twitter:
+    linkedin: chandu-b-l
     github: hisenberg-lab
 
 # Set this to true to get LaTeX math equation support
